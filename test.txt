@@ -1,5 +1,3 @@
 Hello, I live in Korea.
 
 Insert some text.
-
-To good at programming is very hard ^^
